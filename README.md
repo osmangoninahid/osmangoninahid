@@ -12,3 +12,10 @@ One of my standout achievements includes leading the design, development and dep
 Currently, as the Lead Engineer & Solution Architect at a UAE-based market-oriented app competitor of WhatsApp and Telegram, I oversee the Backend XMPP-Messaging segment, ensuring uninterrupted messaging services for over **4 million** users.
 
 <h3 align="left">Find More Detail about Me : https://osmangoninahid.github.io </h3>
+
+ <div id="badges">
+   <a href="https://www.linkedin.com/in/osmangoninahid">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   </a>
+   <img  align="right" src="https://komarev.com/ghpvc/?username=osmangoninahid&label=Profile%20views&color=green&style=flat" alt="osmangoninahid" />
+</div>
