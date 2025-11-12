@@ -8,7 +8,7 @@ Throughout my career, I’ve worn many hats — from founding engineer and team 
 ### 🚀 What I Do
 
 - **Backend Engineering:** Design and build highly available, performant **microservices** (HTTP/REST, GraphQL, gRPC, WebSockets, XMPP).  
-- **Platform & Infrastructure:** Architect **Kubernetes** and **Terraform-based** systems for cloud-native deployment and scalability.  
+- **Platform & Infrastructure:** Architect **Kubernetes**, **Helm** and **Terraform-based** systems for cloud-native deployment and scalability.  
 - **MLOps / LLMOps:** Build **model-serving infrastructure**, enabling seamless **AI model deployment, scaling, and observability** across clusters.  
 - **Leadership:** Hire, mentor, and lead **cross-functional teams** to deliver robust, user-centric software that scales.  
 - **Product & UX Collaboration:** Bridge the gap between technical complexity and business goals, ensuring smooth product delivery and a great user experience.
