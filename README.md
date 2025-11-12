@@ -1,21 +1,54 @@
-I have **over 10 years of experience** building software from the ground up and scaling it to serve millions of users. Out of those 10 years, **8+ were spent working in startups**, where I collaborated closely with business leaders, management, and C-level executives to drive growth through technology.
 
-I’ve worked closely with product teams to translate business needs into **clear, actionable product requirements**, making it easier for the tech teams to understand and implement them quickly.
+I’m a **Backend & Platform Engineering Leader** with over a decade of experience **building software from the ground up** and scaling platforms to serve **millions of users** globally.
 
-I’m passionate about **UX** and always prioritize it. I’ve worked with UX designers to enhance **accessibility** and **simplify user experiences**, pushing for designs that are intuitive and user-friendly.
+Throughout my career, I’ve worn many hats — from founding engineer and team builder to technical lead and platform architect. I’ve spent **8+ years in startup environments**, partnering closely with business, product, and design teams to turn ideas into scalable, user-focused solutions.
 
-I’m also familiar with both **web and mobile frontend technologies**, having worked with them in the past. This allows me to support frontend teams and offer guidance on improving and troubleshooting issues.
+---
 
-I’ve **hired, built, and led highly productive cross-functional teams** of various sizes, with **6 years of experience in leadership**, understanding different mindsets, and maximizing resources to get the best out of people.
+### 🚀 What I Do
 
-Primarily, I’m a **Backend Engineer** with **extensive experience designing and building highly available and performant microservices**, whether it’s **HTTP/REST, GraphQL, WebSockets, or gRPC**. I’ve also worked with **XMPP** and have knowledge of core XEPs. I have **8+ years of experience with NodeJs** and **5+ years with Python** and related frameworks, and I’m familiar with **Golang and Erlang**.
+- **Backend Engineering:** Design and build highly available, performant **microservices** (HTTP/REST, GraphQL, gRPC, WebSockets, XMPP).  
+- **Platform & Infrastructure:** Architect **Kubernetes** and **Terraform-based** systems for cloud-native deployment and scalability.  
+- **MLOps / LLMOps:** Build **model-serving infrastructure**, enabling seamless **AI model deployment, scaling, and observability** across clusters.  
+- **Leadership:** Hire, mentor, and lead **cross-functional teams** to deliver robust, user-centric software that scales.  
+- **Product & UX Collaboration:** Bridge the gap between technical complexity and business goals, ensuring smooth product delivery and a great user experience.
 
-I write **Kubernetes/Terraform configurations** and deploy services to the cloud, with or without containerization. I’ve **scaled microservices to handle millions of concurrent users**, and I’m always up for tackling new challenges in scalability.
+---
 
-Lately, I’m interested in learning more about **Distributed Systems** and **MLOps** to broaden my expertise further.
+### 🧠 Tech Stack Highlights
 
+**Languages & Frameworks:** Python, Go, NodeJS, TypeScript, Django, FastAPI, NestJS, Erlang/OTP  
+**Data & Messaging:** PostgreSQL, MongoDB, Redis, Kafka, RabbitMQ, ElasticSearch  
+**DevOps & Cloud:** Kubernetes, Docker, Terraform, AWS, Azure, Prometheus, Grafana  
+**AI & MLOps:** Model Deployment, vLLM, Hugging Face, Ray, Monitoring, Benchmarking  
 
-You can copy and paste this markdown directly into your README file. It highlights your key experiences, skills, and goals while maintaining clean formatting for readability.
+---
+
+### 🌍 What I’m Working On
+
+- **Open Innovation AI (OICM):** Designing AI & LLM infrastructure for distributed Kubernetes clusters.  
+- **Open Source:**  
+  - 🧠 [GitGossip](https://github.com/osmangoninahid/gitgossip) — LLM-powered Git commit summarizer.  
+  - ⚙️ KubeMemory — Namespace-based in-memory store for Kubernetes.  
+  - 🔍 MIGScope — GPU MIG metrics introspection tool.  
+- **Learning & Exploration:** Distributed Systems, AI Infrastructure, and next-gen MLOps patterns.
+
+---
+
+### 💡 Philosophy
+
+> “There is a solution after the problem.”  
+> I believe in simplicity, ownership, and continuous learning — building systems and teams that scale together.
+
+---
+
+### 🌐 Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/osmangoninahid)  
+- 🌍 [Website](https://osmangoni.info)  
+- 🧑‍💻 [GitHub](https://github.com/osmangoninahid)  
+- ✉️ osmangoni.se@gmail.com
+
 
 <h3 align="left">Find More Detail about Me : https://osmangoninahid.github.io </h3>
 
