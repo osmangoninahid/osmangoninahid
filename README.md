@@ -45,16 +45,9 @@ Throughout my career, I’ve worn many hats — from founding engineer and team 
 ### 🌐 Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/osmangoninahid)  
-- 🌍 [Website](https://osmangoni.info)  
+- 🌍 [Website]([https://osmangoni.info](https://osmangoninahid.github.io))  
 - 🧑‍💻 [GitHub](https://github.com/osmangoninahid)  
 - ✉️ osmangoni.se@gmail.com
 
 
 <h3 align="left">Find More Detail about Me : https://osmangoninahid.github.io </h3>
-
- <div id="badges">
-   <a href="https://www.linkedin.com/in/osmangoninahid">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-   </a>
-   <img  align="right" src="https://komarev.com/ghpvc/?username=osmangoninahid&label=Profile%20views&color=green&style=flat" alt="osmangoninahid" />
-</div>
